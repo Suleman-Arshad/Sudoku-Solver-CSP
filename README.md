@@ -19,3 +19,19 @@ A modern, high-performance Sudoku Solver application built with **Python** and *
    ```bash
    git clone [https://github.com/Suleman-Arshad/Sudoku-Solver-CSP.git](https://github.com/Suleman-Arshad/Sudoku-Solver-CSP.git)
    cd Sudoku-Solver-CSP
+3. **Puzzle Files:** Ensure easy.txt, medium.txt, and hard.txt are in the same folder as the script.
+## 🎮 How to Run
+Run the application using the following command:
+    ```bash
+    python sudoku_solver.py
+
+## 📸 Screenshots
+<img width="768" height="606" alt="image" src="https://github.com/user-attachments/assets/f1c29327-0725-48ae-a82b-ebd92212ab71" />
+<img width="988" height="686" alt="image" src="https://github.com/user-attachments/assets/4a7ff214-d3d2-4e05-851b-ced6289a3137" />
+<img width="988" height="686" alt="image" src="https://github.com/user-attachments/assets/35bcbcec-7785-47c2-9e61-75c985e7e298" />
+<img width="988" height="686" alt="image" src="https://github.com/user-attachments/assets/964f1b80-07f5-46ee-807e-5d9aa59fbce9" />
+<img width="988" height="686" alt="image" src="https://github.com/user-attachments/assets/089b3645-11a4-4948-a962-37e2a3c249f5" />
+<img width="988" height="686" alt="image" src="https://github.com/user-attachments/assets/4d93a177-baf3-45a8-807f-2171c9cf2fe4" />
+
+## 📄 License
+This project is open-source and available for educational purposes.
