@@ -24,6 +24,7 @@ A modern, high-performance Sudoku Solver application built with **Python** and *
 Run the application using the following command:
     ```bash
      python sudoku_solver.py
+    ``` 
 ## 📸 Screenshots
 <img width="768" height="606" alt="image" src="https://github.com/user-attachments/assets/f1c29327-0725-48ae-a82b-ebd92212ab71" />
 <img width="988" height="686" alt="image" src="https://github.com/user-attachments/assets/4a7ff214-d3d2-4e05-851b-ced6289a3137" />
