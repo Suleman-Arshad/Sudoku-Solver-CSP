@@ -22,7 +22,7 @@ A modern, high-performance Sudoku Solver application built with **Python** and *
 3. **Puzzle Files:** Ensure easy.txt, medium.txt, and hard.txt are in the same folder as the script.
 ## 🎮 How to Run
 Run the application using the following command:
-    ```bash
+    ```
      python sudoku_solver.py
     ``` 
 ## 📸 Screenshots
